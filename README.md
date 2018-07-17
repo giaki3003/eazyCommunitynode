@@ -1,6 +1,6 @@
 ![Coin-Logo](https://i.imgur.com/sfV3x2E.png)
 
-### EAZY v1.0.3 is a new state-of-the-art masternode management platform to manage your masternode portfolio from wherever you are. ###
+### EAZY is a new state-of-the-art masternode management platform to manage your masternode portfolio from wherever you are. ###
 
 Our clean and easy to use Interface provides a fast access to the most important features of your running Masternodes such as daily returns, ROI, prices and many more.
 The EAZY Platform enables masternode setup without technical knowledge and without difficulties but with the simplicity of checking your daily emails.
@@ -8,12 +8,16 @@ EAZY is driving positive change and offers a safer, faster and easier entry poin
 
 Our Vision is create a tool solving all masternode investors biggest problems when managing their portfolio, e.g detailed monitoring, comparing your running masternodes profitability and exchanging current masternodes on the platform as they are. With EAZY we will save the process of constructing a masternode from scratch, like acquiring a server for your masternode, looking for a setup guide or a video and especially maintaining the masternode with updates in order to be earning constantly with a stable ROI. For a regular investor with no IT-related knowledge or background, this can be a painful task. With EAZY, investors can invest in masternodes of their choice with a simplicity of a few clicks. Our team is dedicated to build this platform and will pursue to grow it into a flagship of the masternode movement. We want to make Masternode management as easy to understand as possible, EAZY as ABC!
 
+### EAZY v1.1.3 - July 17th
 
 ### More information
 
-[Discord](https://discord.gg/V2gKBhw) 
+[Discord](https://discord.gg/V2gKBhw)
+
 [Twitter](https://www.twitter.com/eazynode) 
+
 [Website](https://www.eazy.online) 
+
 [BitcoinTalk](https://bitcointalk.org/index.php?topic)
 
 
