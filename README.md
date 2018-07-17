@@ -1,6 +1,6 @@
 ![Coin-Logo](https://i.imgur.com/sfV3x2E.png)
 
-### EAZY is a new state-of-the-art masternode management platform to manage your masternode portfolio from wherever you are. ###
+### EAZY v1.0.3 is a new state-of-the-art masternode management platform to manage your masternode portfolio from wherever you are. ###
 
 Our clean and easy to use Interface provides a fast access to the most important features of your running Masternodes such as daily returns, ROI, prices and many more.
 The EAZY Platform enables masternode setup without technical knowledge and without difficulties but with the simplicity of checking your daily emails.
@@ -21,7 +21,7 @@ Our Vision is create a tool solving all masternode investors biggest problems wh
 <table>
 <tr><td>Name</td><td>EAZY</td></tr>
 <tr><td>Ticker</td><td>EAZY</td></tr>    
-<tr><td>Algo</td><td>Quark</td></tr>
+<tr><td>Algo</td><td>Xevan</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply</td><td>50,000,000 EAZY</td></tr>
