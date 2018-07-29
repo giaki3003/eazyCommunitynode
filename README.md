@@ -1,5 +1,5 @@
 ![Coin-Logo](https://i.imgur.com/sfV3x2E.png)
-
+*Community Rebuild*
 ### EAZY is a new state-of-the-art masternode management platform to manage your masternode portfolio from wherever you are. ###
 
 Our clean and easy to use Interface provides a fast access to the most important features of your running Masternodes such as daily returns, ROI, prices and many more.
