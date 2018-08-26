@@ -163,7 +163,7 @@ public:
         vSeeds.push_back(CDNSSeedData("as1.eazynode.io", "as1.eazynode.io"));
         vSeeds.push_back(CDNSSeedData("as2.eazynode.io", "as2.eazynode.io"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 33);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 239);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 4);
         base58Prefixes[SECRET_KEY] = std::vector<unsigned char>(1, 212);
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x02)(0x2D)(0x25)(0x33).convert_to_container<std::vector<unsigned char> >();
@@ -183,7 +183,7 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "046f315948286b605c5c29728dbb6073331650587a8c2e2e04f73e6b9d2a64ea8310840a51ba6e4ab9a06375a6f0f2075f8aa6a84966f9abbfe0237977ad0377da";
+        strSporkKey = "0461c4f82cdcccf677c3efd0761b923f7cf37f63f6ae5113e67430c09f567c6bb4da4308156539fad44401f77468c7353ed81fdf75e33977a0fefa8d789708e8b3";
         strObfuscationPoolDummyAddress = "EAZYnZZZ1TkWWWU78uhVenYnVRDFfTf3hS";
         nStartMasternodePayments = 1531313663;
 

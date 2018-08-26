@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/eastcoastcrypto/Eazy"
+- "url": "https://github.com/giaki3003/eazyCommunitynode"
   "dir": "eazy"
 files: []
 script: |
